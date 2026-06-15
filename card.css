@@ -1,0 +1,31 @@
+.card{
+    width: 300px ;
+    height: 400px ;
+    border: ;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    border-radius: 5px;
+    transition: 2s;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding: 5px 50px;
+}
+#blue:hover{
+    box-shadow: 0 8px 16px lightskyblue ;
+}
+#yellow:hover{
+    box-shadow: 0 8px 16px yellow ;
+}
+#pink:hover{
+    box-shadow: 0 8px 16px pink ;
+}
+#green:hover{
+    box-shadow: 0 8px 16px green ;
+}
+#orange:hover{
+    box-shadow: 0 8px 16px orange ;
+}
